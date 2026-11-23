@@ -1,0 +1,7 @@
+bin/
+obj/
+TestResults/
+gradebook.json
+gradebook.json.lock
+results.csv
+demo-results.csv
